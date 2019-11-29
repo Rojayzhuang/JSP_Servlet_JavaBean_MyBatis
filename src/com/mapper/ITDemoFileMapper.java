@@ -1,5 +1,7 @@
 package com.mapper;
 
+import com.database.data.TDemoFile;
+
 import java.util.List;
 
 /**
