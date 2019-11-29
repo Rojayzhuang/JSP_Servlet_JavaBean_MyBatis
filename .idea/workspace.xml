@@ -82,7 +82,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574997737062</updated>
-      <workItem from="1574997740806" duration="3219000" />
+      <workItem from="1574997740806" duration="3545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3219000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -199,8 +199,8 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" sideWeight="0.49865952" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.90348524" visible="true" weight="0.7407932" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.09651475" side_tool="true" visible="true" weight="0.7407932" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.62935656" visible="true" weight="0.7407932" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.37064344" side_tool="true" visible="true" weight="0.7407932" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
