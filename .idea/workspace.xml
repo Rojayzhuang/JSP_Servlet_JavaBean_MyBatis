@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b7020b6-3a06-4a0f-872e-d31d25e4cada" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JSP_Servlet_JavaBean_MyBatis_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSP_Servlet_JavaBean_MyBatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/database/data/TDemoFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mapper/ITDemoFileMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/servlets/FileAllServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/utils/EncodingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="6b7020b6-3a06-4a0f-872e-d31d25e4cada" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,12 +180,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574997737062</updated>
-      <workItem from="1574997740806" duration="2943000" />
+      <workItem from="1574997740806" duration="3219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2943000" />
+    <option name="totallyTimeSpent" value="3219000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -213,8 +199,8 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" sideWeight="0.49865952" weight="0.3286119" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.9041555" visible="true" weight="0.7407932" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.09584451" side_tool="true" visible="true" weight="0.7407932" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.90348524" visible="true" weight="0.7407932" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.09651475" side_tool="true" visible="true" weight="0.7407932" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
