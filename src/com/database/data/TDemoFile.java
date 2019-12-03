@@ -2,7 +2,6 @@ package com.database.data;
 
 import java.io.Serializable;
 import java.sql.Timestamp;
-
 /**
  * 文件表的持久化类
  * @author Rojay
